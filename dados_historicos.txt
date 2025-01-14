@@ -1,0 +1,732 @@
+Empresa: ibovespa, Data: 2025-01-14, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-12 a 2025-01-16:
+2025-01-13 | Abertura: Ticker
+^BVSP    118856.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119007.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.127044
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-13, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+^BVSP    118856.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119007.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.127044
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-13, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+^BVSP    118856.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119007.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.127044
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-13, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+^BVSP    118856.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119007.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.127044
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-13, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+^BVSP    118856.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119007.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.127044
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-13, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+^BVSP    118856.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119007.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.127044
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-13, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+^BVSP    118856.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119007.0
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.127044
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-11, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-09 a 2025-01-13:
+2025-01-09 | Abertura: Ticker
+^BVSP    119625.0
+Name: 2025-01-09 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119781.0
+Name: 2025-01-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.130408
+Name: 2025-01-09 00:00:00, dtype: float64%
+2025-01-10 | Abertura: Ticker
+^BVSP    119781.0
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    118856.0
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.772243
+Name: 2025-01-10 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-11, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-09 a 2025-01-13:
+2025-01-09 | Abertura: Ticker
+^BVSP    119625.0
+Name: 2025-01-09 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119781.0
+Name: 2025-01-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.130408
+Name: 2025-01-09 00:00:00, dtype: float64%
+2025-01-10 | Abertura: Ticker
+^BVSP    119781.0
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    118856.0
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.772243
+Name: 2025-01-10 00:00:00, dtype: float64%
+Empresa: ibovespa, Data: 2025-01-10, Ticker: ^BVSP
+Dados históricos de ^BVSP para o intervalo de 2025-01-08 a 2025-01-12:
+2025-01-08 | Abertura: Ticker
+^BVSP    121160.0
+Name: 2025-01-08 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119625.0
+Name: 2025-01-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.26692
+Name: 2025-01-08 00:00:00, dtype: float64%
+2025-01-09 | Abertura: Ticker
+^BVSP    119625.0
+Name: 2025-01-09 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    119781.0
+Name: 2025-01-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.130408
+Name: 2025-01-09 00:00:00, dtype: float64%
+2025-01-10 | Abertura: Ticker
+^BVSP    119781.0
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+^BVSP    118856.0
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.772243
+Name: 2025-01-10 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-13, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+PETR4.SA    37.299999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    37.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.616621
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-13, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+PETR4.SA    37.299999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    37.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.616621
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-13, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+PETR4.SA    37.299999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    37.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.616621
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-13, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+PETR4.SA    37.299999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    37.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.616621
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-13, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+PETR4.SA    37.299999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    37.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.616621
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-13, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+PETR4.SA    37.299999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    37.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.616621
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-12, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-10 a 2025-01-14:
+2025-01-10 | Abertura: Ticker
+PETR4.SA    37.25
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.939999
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.832218
+Name: 2025-01-10 00:00:00, dtype: float64%
+2025-01-13 | Abertura: Ticker
+PETR4.SA    37.299999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    37.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.616621
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-11, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-09 a 2025-01-13:
+2025-01-09 | Abertura: Ticker
+PETR4.SA    36.700001
+Name: 2025-01-09 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.84
+Name: 2025-01-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.38147
+Name: 2025-01-09 00:00:00, dtype: float64%
+2025-01-10 | Abertura: Ticker
+PETR4.SA    37.25
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.939999
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.832218
+Name: 2025-01-10 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-10, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-08 a 2025-01-12:
+2025-01-08 | Abertura: Ticker
+PETR4.SA    36.990002
+Name: 2025-01-08 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.68
+Name: 2025-01-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.838068
+Name: 2025-01-08 00:00:00, dtype: float64%
+2025-01-09 | Abertura: Ticker
+PETR4.SA    36.700001
+Name: 2025-01-09 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.84
+Name: 2025-01-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.38147
+Name: 2025-01-09 00:00:00, dtype: float64%
+2025-01-10 | Abertura: Ticker
+PETR4.SA    37.25
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.939999
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.832218
+Name: 2025-01-10 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2025-01-10, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2025-01-08 a 2025-01-12:
+2025-01-08 | Abertura: Ticker
+PETR4.SA    36.990002
+Name: 2025-01-08 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.68
+Name: 2025-01-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.838068
+Name: 2025-01-08 00:00:00, dtype: float64%
+2025-01-09 | Abertura: Ticker
+PETR4.SA    36.700001
+Name: 2025-01-09 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.84
+Name: 2025-01-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.38147
+Name: 2025-01-09 00:00:00, dtype: float64%
+2025-01-10 | Abertura: Ticker
+PETR4.SA    37.25
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    36.939999
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.832218
+Name: 2025-01-10 00:00:00, dtype: float64%
+Empresa: petrobras-petr4, Data: 2018-10-05, Ticker: PETR4.SA
+Dados históricos de PETR4.SA para o intervalo de 2018-10-03 a 2018-10-07:
+2018-10-03 | Abertura: Ticker
+PETR4.SA    7.54802
+Name: 2018-10-03 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    7.11158
+Name: 2018-10-03 00:00:00, dtype: float64 | Variação (%): Ticker
+   -5.782175
+Name: 2018-10-03 00:00:00, dtype: float64%
+2018-10-04 | Abertura: Ticker
+PETR4.SA    7.009944
+Name: 2018-10-04 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    7.180335
+Name: 2018-10-04 00:00:00, dtype: float64 | Variação (%): Ticker
+    2.430702
+Name: 2018-10-04 00:00:00, dtype: float64%
+2018-10-05 | Abertura: Ticker
+PETR4.SA    7.320831
+Name: 2018-10-05 00:00:00, dtype: float64 | Fechamento: Ticker
+PETR4.SA    7.162397
+Name: 2018-10-05 00:00:00, dtype: float64 | Variação (%): Ticker
+   -2.164151
+Name: 2018-10-05 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2025-01-07, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2025-01-05 a 2025-01-09:
+2025-01-06 | Abertura: Ticker
+MGLU3.SA    6.41
+Name: 2025-01-06 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    6.65
+Name: 2025-01-06 00:00:00, dtype: float64 | Variação (%): Ticker
+    3.744154
+Name: 2025-01-06 00:00:00, dtype: float64%
+2025-01-07 | Abertura: Ticker
+MGLU3.SA    6.72
+Name: 2025-01-07 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    6.6
+Name: 2025-01-07 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.785713
+Name: 2025-01-07 00:00:00, dtype: float64%
+2025-01-08 | Abertura: Ticker
+MGLU3.SA    6.46
+Name: 2025-01-08 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    6.17
+Name: 2025-01-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -4.489163
+Name: 2025-01-08 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-12-30, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-12-28 a 2025-01-01:
+2024-12-30 | Abertura: Ticker
+MGLU3.SA    6.54
+Name: 2024-12-30 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    6.5
+Name: 2024-12-30 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.61162
+Name: 2024-12-30 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-12-12, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-12-10 a 2024-12-14:
+2024-12-10 | Abertura: Ticker
+MGLU3.SA    8.68
+Name: 2024-12-10 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    8.72
+Name: 2024-12-10 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.460829
+Name: 2024-12-10 00:00:00, dtype: float64%
+2024-12-11 | Abertura: Ticker
+MGLU3.SA    8.8
+Name: 2024-12-11 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.21
+Name: 2024-12-11 00:00:00, dtype: float64 | Variação (%): Ticker
+    4.659089
+Name: 2024-12-11 00:00:00, dtype: float64%
+2024-12-12 | Abertura: Ticker
+MGLU3.SA    8.9
+Name: 2024-12-12 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    8.38
+Name: 2024-12-12 00:00:00, dtype: float64 | Variação (%): Ticker
+   -5.842691
+Name: 2024-12-12 00:00:00, dtype: float64%
+2024-12-13 | Abertura: Ticker
+MGLU3.SA    8.39
+Name: 2024-12-13 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    8.2
+Name: 2024-12-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -2.264607
+Name: 2024-12-13 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-11-27, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-11-25 a 2024-11-29:
+2024-11-25 | Abertura: Ticker
+MGLU3.SA    9.43
+Name: 2024-11-25 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    10.01
+Name: 2024-11-25 00:00:00, dtype: float64 | Variação (%): Ticker
+    6.150582
+Name: 2024-11-25 00:00:00, dtype: float64%
+2024-11-26 | Abertura: Ticker
+MGLU3.SA    9.95
+Name: 2024-11-26 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    10.64
+Name: 2024-11-26 00:00:00, dtype: float64 | Variação (%): Ticker
+    6.934679
+Name: 2024-11-26 00:00:00, dtype: float64%
+2024-11-27 | Abertura: Ticker
+MGLU3.SA    10.66
+Name: 2024-11-27 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.64
+Name: 2024-11-27 00:00:00, dtype: float64 | Variação (%): Ticker
+   -9.568476
+Name: 2024-11-27 00:00:00, dtype: float64%
+2024-11-28 | Abertura: Ticker
+MGLU3.SA    9.63
+Name: 2024-11-28 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    8.99
+Name: 2024-11-28 00:00:00, dtype: float64 | Variação (%): Ticker
+   -6.645902
+Name: 2024-11-28 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-11-26, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-11-24 a 2024-11-28:
+2024-11-25 | Abertura: Ticker
+MGLU3.SA    9.43
+Name: 2024-11-25 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    10.01
+Name: 2024-11-25 00:00:00, dtype: float64 | Variação (%): Ticker
+    6.150582
+Name: 2024-11-25 00:00:00, dtype: float64%
+2024-11-26 | Abertura: Ticker
+MGLU3.SA    9.95
+Name: 2024-11-26 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    10.64
+Name: 2024-11-26 00:00:00, dtype: float64 | Variação (%): Ticker
+    6.934679
+Name: 2024-11-26 00:00:00, dtype: float64%
+2024-11-27 | Abertura: Ticker
+MGLU3.SA    10.66
+Name: 2024-11-27 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.64
+Name: 2024-11-27 00:00:00, dtype: float64 | Variação (%): Ticker
+   -9.568476
+Name: 2024-11-27 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-11-26, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-11-24 a 2024-11-28:
+2024-11-25 | Abertura: Ticker
+MGLU3.SA    9.43
+Name: 2024-11-25 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    10.01
+Name: 2024-11-25 00:00:00, dtype: float64 | Variação (%): Ticker
+    6.150582
+Name: 2024-11-25 00:00:00, dtype: float64%
+2024-11-26 | Abertura: Ticker
+MGLU3.SA    9.95
+Name: 2024-11-26 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    10.64
+Name: 2024-11-26 00:00:00, dtype: float64 | Variação (%): Ticker
+    6.934679
+Name: 2024-11-26 00:00:00, dtype: float64%
+2024-11-27 | Abertura: Ticker
+MGLU3.SA    10.66
+Name: 2024-11-27 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.64
+Name: 2024-11-27 00:00:00, dtype: float64 | Variação (%): Ticker
+   -9.568476
+Name: 2024-11-27 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-11-08, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-11-06 a 2024-11-10:
+2024-11-06 | Abertura: Ticker
+MGLU3.SA    9.74
+Name: 2024-11-06 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-06 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.102672
+Name: 2024-11-06 00:00:00, dtype: float64%
+2024-11-07 | Abertura: Ticker
+MGLU3.SA    9.81
+Name: 2024-11-07 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.38
+Name: 2024-11-07 00:00:00, dtype: float64 | Variação (%): Ticker
+   -4.383285
+Name: 2024-11-07 00:00:00, dtype: float64%
+2024-11-08 | Abertura: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-08 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.6
+Name: 2024-11-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.336065
+Name: 2024-11-08 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-11-08, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-11-06 a 2024-11-10:
+2024-11-06 | Abertura: Ticker
+MGLU3.SA    9.74
+Name: 2024-11-06 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-06 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.102672
+Name: 2024-11-06 00:00:00, dtype: float64%
+2024-11-07 | Abertura: Ticker
+MGLU3.SA    9.81
+Name: 2024-11-07 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.38
+Name: 2024-11-07 00:00:00, dtype: float64 | Variação (%): Ticker
+   -4.383285
+Name: 2024-11-07 00:00:00, dtype: float64%
+2024-11-08 | Abertura: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-08 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.6
+Name: 2024-11-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.336065
+Name: 2024-11-08 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-11-08, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-11-06 a 2024-11-10:
+2024-11-06 | Abertura: Ticker
+MGLU3.SA    9.74
+Name: 2024-11-06 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-06 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.102672
+Name: 2024-11-06 00:00:00, dtype: float64%
+2024-11-07 | Abertura: Ticker
+MGLU3.SA    9.81
+Name: 2024-11-07 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.38
+Name: 2024-11-07 00:00:00, dtype: float64 | Variação (%): Ticker
+   -4.383285
+Name: 2024-11-07 00:00:00, dtype: float64%
+2024-11-08 | Abertura: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-08 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.6
+Name: 2024-11-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.336065
+Name: 2024-11-08 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2024-11-07, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2024-11-05 a 2024-11-09:
+2024-11-05 | Abertura: Ticker
+MGLU3.SA    9.65
+Name: 2024-11-05 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.98
+Name: 2024-11-05 00:00:00, dtype: float64 | Variação (%): Ticker
+    3.419688
+Name: 2024-11-05 00:00:00, dtype: float64%
+2024-11-06 | Abertura: Ticker
+MGLU3.SA    9.74
+Name: 2024-11-06 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-06 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.102672
+Name: 2024-11-06 00:00:00, dtype: float64%
+2024-11-07 | Abertura: Ticker
+MGLU3.SA    9.81
+Name: 2024-11-07 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.38
+Name: 2024-11-07 00:00:00, dtype: float64 | Variação (%): Ticker
+   -4.383285
+Name: 2024-11-07 00:00:00, dtype: float64%
+2024-11-08 | Abertura: Ticker
+MGLU3.SA    9.73
+Name: 2024-11-08 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    9.6
+Name: 2024-11-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.336065
+Name: 2024-11-08 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2025-01-14, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2025-01-12 a 2025-01-16:
+2025-01-13 | Abertura: Ticker
+MGLU3.SA    6.07
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    5.81
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -4.283364
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: magazine-luiza-mglu3, Data: 2018-11-13, Ticker: MGLU3.SA
+Dados históricos de MGLU3.SA para o intervalo de 2018-11-11 a 2018-11-15:
+2018-11-12 | Abertura: Ticker
+MGLU3.SA    42.491613
+Name: 2018-11-12 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    44.382057
+Name: 2018-11-12 00:00:00, dtype: float64 | Variação (%): Ticker
+    4.448981
+Name: 2018-11-12 00:00:00, dtype: float64%
+2018-11-13 | Abertura: Ticker
+MGLU3.SA    44.775167
+Name: 2018-11-13 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    44.344471
+Name: 2018-11-13 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.961908
+Name: 2018-11-13 00:00:00, dtype: float64%
+2018-11-14 | Abertura: Ticker
+MGLU3.SA    44.616191
+Name: 2018-11-14 00:00:00, dtype: float64 | Fechamento: Ticker
+MGLU3.SA    44.948608
+Name: 2018-11-14 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.74506
+Name: 2018-11-14 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2025-01-13, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2025-01-11 a 2025-01-15:
+2025-01-13 | Abertura: Ticker
+ITUB4.SA    30.629999
+Name: 2025-01-13 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    30.860001
+Name: 2025-01-13 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.750903
+Name: 2025-01-13 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2025-01-10, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2025-01-08 a 2025-01-12:
+2025-01-08 | Abertura: Ticker
+ITUB4.SA    31.219999
+Name: 2025-01-08 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    30.99
+Name: 2025-01-08 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.736706
+Name: 2025-01-08 00:00:00, dtype: float64%
+2025-01-09 | Abertura: Ticker
+ITUB4.SA    31.01
+Name: 2025-01-09 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    31.07
+Name: 2025-01-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.193484
+Name: 2025-01-09 00:00:00, dtype: float64%
+2025-01-10 | Abertura: Ticker
+ITUB4.SA    31.059999
+Name: 2025-01-10 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    30.639999
+Name: 2025-01-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.352222
+Name: 2025-01-10 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
+2024-12-09 | Abertura: Ticker
+ITUB4.SA    32.421848
+Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.530746
+Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.33588
+Name: 2024-12-09 00:00:00, dtype: float64%
+2024-12-10 | Abertura: Ticker
+ITUB4.SA    32.721198
+Name: 2024-12-10 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.971054
+Name: 2024-12-10 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.763592
+Name: 2024-12-10 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
+2024-12-09 | Abertura: Ticker
+ITUB4.SA    32.421848
+Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.530746
+Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.33588
+Name: 2024-12-09 00:00:00, dtype: float64%
+2024-12-10 | Abertura: Ticker
+ITUB4.SA    32.721198
+Name: 2024-12-10 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.971054
+Name: 2024-12-10 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.763592
+Name: 2024-12-10 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
+2024-12-09 | Abertura: Ticker
+ITUB4.SA    32.421848
+Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.530746
+Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.33588
+Name: 2024-12-09 00:00:00, dtype: float64%
+2024-12-10 | Abertura: Ticker
+ITUB4.SA    32.721198
+Name: 2024-12-10 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.971054
+Name: 2024-12-10 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.763592
+Name: 2024-12-10 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
+2024-12-09 | Abertura: Ticker
+ITUB4.SA    32.421848
+Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.530746
+Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.33588
+Name: 2024-12-09 00:00:00, dtype: float64%
+2024-12-10 | Abertura: Ticker
+ITUB4.SA    32.721198
+Name: 2024-12-10 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.971054
+Name: 2024-12-10 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.763592
+Name: 2024-12-10 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-12-08, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-12-06 a 2024-12-10:
+2024-12-06 | Abertura: Ticker
+ITUB4.SA    32.946535
+Name: 2024-12-06 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.372349
+Name: 2024-12-06 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.742783
+Name: 2024-12-06 00:00:00, dtype: float64%
+2024-12-09 | Abertura: Ticker
+ITUB4.SA    32.421844
+Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.530743
+Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.33588
+Name: 2024-12-09 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-12-07, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-12-05 a 2024-12-09:
+2024-12-05 | Abertura: Ticker
+ITUB4.SA    32.649542
+Name: 2024-12-05 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    33.045536
+Name: 2024-12-05 00:00:00, dtype: float64 | Variação (%): Ticker
+    1.212861
+Name: 2024-12-05 00:00:00, dtype: float64%
+2024-12-06 | Abertura: Ticker
+ITUB4.SA    32.946535
+Name: 2024-12-06 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.372349
+Name: 2024-12-06 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.742783
+Name: 2024-12-06 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-12-07, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-12-05 a 2024-12-09:
+2024-12-05 | Abertura: Ticker
+ITUB4.SA    32.649542
+Name: 2024-12-05 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    33.045536
+Name: 2024-12-05 00:00:00, dtype: float64 | Variação (%): Ticker
+    1.212861
+Name: 2024-12-05 00:00:00, dtype: float64%
+2024-12-06 | Abertura: Ticker
+ITUB4.SA    32.946535
+Name: 2024-12-06 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.372349
+Name: 2024-12-06 00:00:00, dtype: float64 | Variação (%): Ticker
+   -1.742783
+Name: 2024-12-06 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2024-11-29, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2024-11-27 a 2024-12-01:
+2024-11-27 | Abertura: Ticker
+ITUB4.SA    34.313921
+Name: 2024-11-27 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    33.542156
+Name: 2024-11-27 00:00:00, dtype: float64 | Variação (%): Ticker
+   -2.249131
+Name: 2024-11-27 00:00:00, dtype: float64%
+2024-11-28 | Abertura: Ticker
+ITUB4.SA    33.413528
+Name: 2024-11-28 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.335033
+Name: 2024-11-28 00:00:00, dtype: float64 | Variação (%): Ticker
+   -3.227717
+Name: 2024-11-28 00:00:00, dtype: float64%
+2024-11-29 | Abertura: Ticker
+ITUB4.SA    32.414186
+Name: 2024-11-29 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    32.255875
+Name: 2024-11-29 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.4884
+Name: 2024-11-29 00:00:00, dtype: float64%
+Empresa: itau-unibanco-itub4, Data: 2019-05-10, Ticker: ITUB4.SA
+Dados históricos de ITUB4.SA para o intervalo de 2019-05-08 a 2019-05-12:
+2019-05-08 | Abertura: Ticker
+ITUB4.SA    26.05372
+Name: 2019-05-08 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    26.236748
+Name: 2019-05-08 00:00:00, dtype: float64 | Variação (%): Ticker
+    0.702503
+Name: 2019-05-08 00:00:00, dtype: float64%
+2019-05-09 | Abertura: Ticker
+ITUB4.SA    25.918435
+Name: 2019-05-09 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    25.910479
+Name: 2019-05-09 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.030698
+Name: 2019-05-09 00:00:00, dtype: float64%
+2019-05-10 | Abertura: Ticker
+ITUB4.SA    25.85478
+Name: 2019-05-10 00:00:00, dtype: float64 | Fechamento: Ticker
+ITUB4.SA    25.791117
+Name: 2019-05-10 00:00:00, dtype: float64 | Variação (%): Ticker
+   -0.246235
+Name: 2019-05-10 00:00:00, dtype: float64%

@@ -1,0 +1,5 @@
+nltk
+bs4
+pandas
+yfinance
+transformers

@@ -11,9 +11,9 @@ def main():
     
     # Análise de variações e sentimentos
     # (Considerando que `noticias.csv` seja gerado pelo `digest_news`)
-    with open("./scrapping/noticias_empresas.csv", "r") as file:
+    with open("./noticias_empresas.csv", "r") as file:
         noticias = file.readlines()[1:]  # Ignorar cabeçalho
-        textos = [line.split(",")[3] for line in noticias]  # Supondo texto na 4ª coluna
+        textos = [line.split(",")[4] for line in noticias]  # Supondo texto na 4ª coluna
         textos_sanitizados = [" ".join(sanitize_text(texto)) for texto in textos]
         sentimentos = analise_mood(textos_sanitizados)
     

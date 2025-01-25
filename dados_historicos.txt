@@ -349,9 +349,9 @@ Name: 2025-01-10 00:00:00, dtype: float64%
 Empresa: petrobras-petr4, Data: 2018-10-05, Ticker: PETR4.SA
 Dados históricos de PETR4.SA para o intervalo de 2018-10-03 a 2018-10-07:
 2018-10-03 | Abertura: Ticker
-PETR4.SA    7.531674
+PETR4.SA    7.531671
 Name: 2018-10-03 00:00:00, dtype: float64 | Fechamento: Ticker
-PETR4.SA    7.096179
+PETR4.SA    7.096177
 Name: 2018-10-03 00:00:00, dtype: float64 | Variação (%): Ticker
    -5.782175
 Name: 2018-10-03 00:00:00, dtype: float64%
@@ -363,9 +363,9 @@ Name: 2018-10-04 00:00:00, dtype: float64 | Variação (%): Ticker
     2.430702
 Name: 2018-10-04 00:00:00, dtype: float64%
 2018-10-05 | Abertura: Ticker
-PETR4.SA    7.304976
+PETR4.SA    7.304978
 Name: 2018-10-05 00:00:00, dtype: float64 | Fechamento: Ticker
-PETR4.SA    7.146885
+PETR4.SA    7.146887
 Name: 2018-10-05 00:00:00, dtype: float64 | Variação (%): Ticker
    -2.164151
 Name: 2018-10-05 00:00:00, dtype: float64%
@@ -625,16 +625,16 @@ Name: 2025-01-24 00:00:00, dtype: float64%
 Empresa: magazine-luiza-mglu3, Data: 2018-11-13, Ticker: MGLU3.SA
 Dados históricos de MGLU3.SA para o intervalo de 2018-11-11 a 2018-11-15:
 2018-11-12 | Abertura: Ticker
-MGLU3.SA    42.491606
+MGLU3.SA    42.491599
 Name: 2018-11-12 00:00:00, dtype: float64 | Fechamento: Ticker
-MGLU3.SA    44.38205
+MGLU3.SA    44.382042
 Name: 2018-11-12 00:00:00, dtype: float64 | Variação (%): Ticker
     4.448981
 Name: 2018-11-12 00:00:00, dtype: float64%
 2018-11-13 | Abertura: Ticker
-MGLU3.SA    44.775171
+MGLU3.SA    44.775175
 Name: 2018-11-13 00:00:00, dtype: float64 | Fechamento: Ticker
-MGLU3.SA    44.344475
+MGLU3.SA    44.344479
 Name: 2018-11-13 00:00:00, dtype: float64 | Variação (%): Ticker
    -0.961908
 Name: 2018-11-13 00:00:00, dtype: float64%
@@ -687,9 +687,9 @@ Name: 2025-01-10 00:00:00, dtype: float64%
 Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
 Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
 2024-12-09 | Abertura: Ticker
-ITUB4.SA    32.421844
+ITUB4.SA    32.421848
 Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    32.530743
+ITUB4.SA    32.530746
 Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
     0.33588
 Name: 2024-12-09 00:00:00, dtype: float64%
@@ -703,9 +703,9 @@ Name: 2024-12-10 00:00:00, dtype: float64%
 Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
 Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
 2024-12-09 | Abertura: Ticker
-ITUB4.SA    32.421844
+ITUB4.SA    32.421848
 Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    32.530743
+ITUB4.SA    32.530746
 Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
     0.33588
 Name: 2024-12-09 00:00:00, dtype: float64%
@@ -719,9 +719,9 @@ Name: 2024-12-10 00:00:00, dtype: float64%
 Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
 Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
 2024-12-09 | Abertura: Ticker
-ITUB4.SA    32.421844
+ITUB4.SA    32.421848
 Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    32.530743
+ITUB4.SA    32.530746
 Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
     0.33588
 Name: 2024-12-09 00:00:00, dtype: float64%
@@ -735,9 +735,9 @@ Name: 2024-12-10 00:00:00, dtype: float64%
 Empresa: itau-unibanco-itub4, Data: 2024-12-09, Ticker: ITUB4.SA
 Dados históricos de ITUB4.SA para o intervalo de 2024-12-07 a 2024-12-11:
 2024-12-09 | Abertura: Ticker
-ITUB4.SA    32.421844
+ITUB4.SA    32.421848
 Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    32.530743
+ITUB4.SA    32.530746
 Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
     0.33588
 Name: 2024-12-09 00:00:00, dtype: float64%
@@ -758,9 +758,9 @@ Name: 2024-12-06 00:00:00, dtype: float64 | Variação (%): Ticker
    -1.742783
 Name: 2024-12-06 00:00:00, dtype: float64%
 2024-12-09 | Abertura: Ticker
-ITUB4.SA    32.421844
+ITUB4.SA    32.421848
 Name: 2024-12-09 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    32.530743
+ITUB4.SA    32.530746
 Name: 2024-12-09 00:00:00, dtype: float64 | Variação (%): Ticker
     0.33588
 Name: 2024-12-09 00:00:00, dtype: float64%
@@ -806,9 +806,9 @@ Name: 2024-11-27 00:00:00, dtype: float64 | Variação (%): Ticker
    -2.249131
 Name: 2024-11-27 00:00:00, dtype: float64%
 2024-11-28 | Abertura: Ticker
-ITUB4.SA    33.413528
+ITUB4.SA    33.413524
 Name: 2024-11-28 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    32.335033
+ITUB4.SA    32.33503
 Name: 2024-11-28 00:00:00, dtype: float64 | Variação (%): Ticker
    -3.227717
 Name: 2024-11-28 00:00:00, dtype: float64%
@@ -822,23 +822,23 @@ Name: 2024-11-29 00:00:00, dtype: float64%
 Empresa: itau-unibanco-itub4, Data: 2019-05-10, Ticker: ITUB4.SA
 Dados históricos de ITUB4.SA para o intervalo de 2019-05-08 a 2019-05-12:
 2019-05-08 | Abertura: Ticker
-ITUB4.SA    25.791601
+ITUB4.SA    26.022402
 Name: 2019-05-08 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    25.972788
+ITUB4.SA    26.20521
 Name: 2019-05-08 00:00:00, dtype: float64 | Variação (%): Ticker
     0.702503
 Name: 2019-05-08 00:00:00, dtype: float64%
 2019-05-09 | Abertura: Ticker
-ITUB4.SA    25.657664
+ITUB4.SA    25.887273
 Name: 2019-05-09 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    25.649788
+ITUB4.SA    25.879326
 Name: 2019-05-09 00:00:00, dtype: float64 | Variação (%): Ticker
    -0.030698
 Name: 2019-05-09 00:00:00, dtype: float64%
 2019-05-10 | Abertura: Ticker
-ITUB4.SA    25.594658
+ITUB4.SA    25.823692
 Name: 2019-05-10 00:00:00, dtype: float64 | Fechamento: Ticker
-ITUB4.SA    25.531635
+ITUB4.SA    25.760105
 Name: 2019-05-10 00:00:00, dtype: float64 | Variação (%): Ticker
    -0.246235
 Name: 2019-05-10 00:00:00, dtype: float64%

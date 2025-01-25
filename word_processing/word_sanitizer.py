@@ -10,7 +10,6 @@ nltk.download('punkt_tab')
 
 
 def sanitize_text(corpus: str) -> list[str]:
-    print(f'Nltk está procurando por recursos em {nltk.data.path}');
     tokens = word_tokenize(corpus)
     tokens_lower = [token.lower() for token in tokens]
     stop_words = set(stopwords.words('portuguese'))

@@ -3,3 +3,5 @@ bs4
 pandas
 yfinance
 transformers
+tensorflow
+tf-keras

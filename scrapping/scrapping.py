@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-import constants
+from scrapping import constants
 
 def digest_news() -> None:
     with open(constants.output_file, mode="w", newline="", encoding="utf-8") as csvfile:

@@ -13,7 +13,7 @@ def main():
     # (Considerando que `noticias.csv` seja gerado pelo `digest_news`)
     with open("./noticias_empresas.csv", "r") as file:
         noticias = file.readlines()[1:]  # Ignorar cabeçalho
-        textos = [line.split(",")[4] for line in noticias]  # Supondo texto na 4ª coluna
+        textos = [line.split(",")[4] for line in noticias]
         textos_sanitizados = [" ".join(sanitize_text(texto)) for texto in textos]
         sentimentos = analise_mood(textos_sanitizados)
     

@@ -13,11 +13,13 @@ def main():
     # (Considerando que `noticias.csv` seja gerado pelo `digest_news`)
     with open("./noticias_empresas.csv", "r") as file:
         noticias = file.readlines()[1:]  # Ignorar cabeçalho
-        textos = [line.split(",")[4] for line in noticias]
-        textos_sanitizados = [" ".join(sanitize_text(texto)) for texto in textos]
-        sentimentos = analise_mood(textos_sanitizados)
-    
-    print("Resultados dos sentimentos:", sentimentos)
+        noticias_formatadas = [(line.split(",")[0], line.split(",")[1], line.split(",")[4]) for line in noticias]
+        print("---------------------------------------------------------------\n")
+        for (empresa, titulo, noticia) in noticias_formatadas:
+            texto_sanitizado = " ".join(sanitize_text(noticia))
+            sentimentos = analise_mood(texto_sanitizado)
+            print(f'Empresa: {empresa}.\n\t Noticia: {titulo}.\n\t Sentimentos: {sentimentos}')
+            print("---------------------------------------------------------------\n")
 
 if __name__ == "__main__":
     main()

@@ -75,13 +75,13 @@ def variacao_por_noticia(df_noticias):
             for index, row in stock_data.iterrows():
                 resultado.append(f"{index.date()} | Abertura: {row['Open']} | Fechamento: {row['Close']} | Variação (%): {row['Daily Change (%)']}%")
 
-    with open("./scrapping/dados_historicos.txt", "w") as f:
+    with open("dados_historicos.txt", "w") as f:
         f.write("\n".join(resultado))
 
     print("Dados salvos em 'dados_historicos.txt'.")
 
 # Caminho para o arquivo CSV
-arquivo_csv = "./scrapping/noticias_empresas.csv"
+arquivo_csv = "noticias_empresas.csv"
 
 df = pd.read_csv(arquivo_csv)
 df_selecionado = df[['EMPRESA', 'DATA']].copy()

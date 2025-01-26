@@ -5,3 +5,4 @@ yfinance
 transformers
 tensorflow
 tf-keras
+deep-translator

@@ -3,6 +3,7 @@ bs4
 pandas
 yfinance
 transformers
-tensorflow
+tensorflow==2.14
 tf-keras
 deep-translator
+matplotlib

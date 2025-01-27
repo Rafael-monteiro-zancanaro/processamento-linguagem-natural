@@ -5,7 +5,7 @@ from scrapping import constants
 
 def digest_news() -> None:
     with open(constants.output_file, mode="w", newline="", encoding="utf-8") as csvfile:
-        writer = csv.writer(csvfile)
+        writer = csv.writer(csvfile, delimiter =';')
         writer.writerow(["EMPRESA", "TÍTULO", "DATA", "URL", "TEXTO"])
 
         for empresa in constants.empresas:

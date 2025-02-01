@@ -106,5 +106,34 @@ def main():
                  variacao_um_dia_depois, variacao_dois_dias_depois]
             )
 
+    # Função para gerar e salvar gráficos de barras
+    def salvar_grafico_barras(titulo, dados, empresa, tipo):
+        sentimentos, variacoes = zip(*dados)
+        x_indices = np.arange(len(sentimentos))
+
+        plt.figure(figsize=(12, 6))
+        plt.bar(x_indices, variacoes, color='skyblue', alpha=0.8)
+        plt.xticks(x_indices, [f"{s:.2f}" for s in sentimentos], rotation=45, fontsize=8)
+        plt.title(titulo)
+        plt.xlabel("Sentimento (score)")
+        plt.ylabel("Variação de Preço")
+        plt.grid(axis='y', linestyle='--', alpha=0.7)
+
+        # Criar pasta para salvar gráficos
+        output_dir = "./graficos_empresas"
+        os.makedirs(output_dir, exist_ok=True)
+
+        # Salvar gráfico como PNG
+        plt.tight_layout()
+        plt.savefig(f"{output_dir}/{empresa}_{tipo}.png")
+        plt.close()
+
+    # Gerar gráficos para cada empresa
+    for empresa, dados in empresas_sentimentos_variacao.items():
+        salvar_grafico_barras(f"{empresa} - Sentimento x Variação no Dia", dados["no_dia"], empresa, "no_dia")
+        salvar_grafico_barras(f"{empresa} - Sentimento x Variação 1 Dia Antes", dados["um_dia_antes"], empresa, "um_dia_antes")
+        salvar_grafico_barras(f"{empresa} - Sentimento x Variação 1 Dia Depois", dados["um_dia_depois"], empresa, "um_dia_depois")
+        salvar_grafico_barras(f"{empresa} - Sentimento x Variação 2 Dias Antes e Depois", dados["dois_dias_antes_e_depois"], empresa, "dois_dias_antes_e_depois")
+
 if __name__ == "__main__":
     main()

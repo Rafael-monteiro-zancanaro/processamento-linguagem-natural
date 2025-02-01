@@ -10,7 +10,7 @@ nltk.download('punkt_tab')
 
 
 def sanitize_text(corpus: str) -> list[str]:
-    tokens = word_tokenize(corpus)
+    tokens = word_tokenize(corpus[:512])
     tokens_lower = [token.lower() for token in tokens]
     stop_words = set(stopwords.words('portuguese'))
     tokens_no_stopwords = [word for word in tokens_lower if word not in stop_words]
